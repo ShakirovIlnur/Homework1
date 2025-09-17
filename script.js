@@ -1,5 +1,3 @@
-let user = {
-    name: "Владимир",
-    age: 55,
-    isAdmin: true
-};
+let name = prompt("Ваше имя");
+
+alert("Привет, " + name);
