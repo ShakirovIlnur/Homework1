@@ -1,6 +1,4 @@
-let a = 10;
-let b = 2;
-alert(a + b);
-alert(a - b);
-alert(a * b);
-alert(a / b);
+let meaning = 2;
+let power = 5
+let result = (Math.pow(meaning, power));
+alert(result);
